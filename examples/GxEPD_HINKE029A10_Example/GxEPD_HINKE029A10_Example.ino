@@ -66,7 +66,7 @@
 //#include <GxGDEW075Z08/GxGDEW075Z08.h>    // 7.5" b/w/r 800x480
 
 // HINK displays
-#include <HINKE029A10/HINKE029A10.h>    // 2.9" b/w/r HINK-E029A10
+#include <GxEPD_HINKE029A10.h>    // 2.9" b/w/r HINK-E029A10
 
 #include GxEPD_BitmapExamples
 

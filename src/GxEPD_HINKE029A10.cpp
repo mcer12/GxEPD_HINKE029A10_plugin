@@ -8,7 +8,7 @@
 //
 // Library: https://github.com/ZinggJM/GxEPD
 
-#include "HINKE029A10.h"
+#include "GxEPD_HINKE029A10.h"
 
 //#define DISABLE_DIAGNOSTIC_OUTPUT
 
