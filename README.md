@@ -1,5 +1,7 @@
 # GxEPD HINK-E029A10 addon
-This small library adds support for 2.9" HINK-E029A10-A1 display to GxEPD library. It doesn't support partial update, other than that is should work. 
+This small library adds support for **2.9" HINK-E029A10-A1** display to GxEPD library. It doesn't support partial update, other than that is should work.
+
+https://github.com/ZinggJM/GxEPD
 
 ## Installation
 1. copy the repository to your Arduino/libraries folder
