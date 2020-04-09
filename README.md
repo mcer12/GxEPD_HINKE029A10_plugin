@@ -7,5 +7,5 @@ This small library adds support for 2.9" HINK-E029A10-A1 display to GxEPD librar
 3. And done. You can try it out with example attached in the repository.
 
 ## Based mostly on these projects:
-https://github.com/drewler/epd
-https://github.com/atc1441/GxEPD
+- https://github.com/drewler/epd
+- https://github.com/atc1441/GxEPD
