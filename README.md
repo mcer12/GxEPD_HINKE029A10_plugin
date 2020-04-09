@@ -1,5 +1,7 @@
-# GxEPD HINK-E029A10 plugin
-This small library adds support for **2.9" HINK-E029A10-A1** display to GxEPD library. It doesn't support partial update atm, other than that it should work. PRs are welcome.
+# GxEPD HINK-E029A10 arduino plugin
+This small Arduino library adds support for **2.9" HINK-E029A10-A1** display to GxEPD library. It is a 3-color display with SSD1675A driver.
+
+This plugin doesn't support partial update atm, other than that it should work. PRs are welcome.
 
 https://github.com/ZinggJM/GxEPD
 
